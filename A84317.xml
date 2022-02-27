@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The eye cleard; or a preservative for the sight. Being a quaint composition without fenell or eye-bright, to restore the poreblind, and make the squint-eye to looke forthright. VVith the gratefull acknowledgement of much comfort already received in that kinde by divers, through this, and other remedies applyed by the author.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84317</idno>
+            <idno type="STC">Wing E3935</idno>
+            <idno type="STC">Thomason E52_11</idno>
+            <idno type="STC">ESTC R21423</idno>
+            <idno type="EEBO-CITATION">99871422</idno>
+            <idno type="PROQUEST">99871422</idno>
+            <idno type="VID">155198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155198)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The eye cleard; or a preservative for the sight. Being a quaint composition without fenell or eye-bright, to restore the poreblind, and make the squint-eye to looke forthright. VVith the gratefull acknowledgement of much comfort already received in that kinde by divers, through this, and other remedies applyed by the author.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order for G. Bishop,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>June 25. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pro-Royalist.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155198:1" rendition="simple:additions"/>
+            <p>THE EYE CLEARD; <hi>OR</hi> A PRESERVATIVE FOR THE SIGHT.</p>
+            <p>Being a quaint Compoſition without <hi>Fenell</hi> or <hi>Eye-bright,</hi> to reſtore the <hi>Poreblind,</hi> and make the <hi>Squint-Eye</hi> to looke forth<g ref="char:EOLhyphen"/>right. VVith the gratefull acknowledge<g ref="char:EOLhyphen"/>ment of much comfort already received in that kinde by divers, through this, and other Remedies applyed by the <hi>Author.</hi>
+            </p>
+            <q>
+               <l>Such as were blinde, and now can ſee,</l>
+               <l>Let 'em uſe this Receipt with me,</l>
+               <l>'Twill cleare the Eye, preſerve the Sight,</l>
+               <l>And give the underſtanding Light.</l>
+            </q>
+            <figure>
+               <figDesc>depiction of a vial of collyrium</figDesc>
+               <head>A Viall of preſeruatiue Water for Clearing y<hi rend="sup">e</hi> Eyes</head>
+            </figure>
+            <p>Printed according to Order for <hi>G. Biſhop,</hi> June 25. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:155198:2"/>
+            <head>The Eye Clear'd, <hi>OR</hi> A PRESERVATI<g ref="char:V">Ʋ</g>E FOR <hi>THE SIGHT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat's here! another paire of Spectacles? No, it ſhall not need, the world's well amended; ſuch as of late appear'd to be meer <hi>Barbarians</hi> both in their carriage and expreſſions are now recove<g ref="char:EOLhyphen"/>red, come home, and grown penitent! their ſights are cleer'd already, and the miſtak's diſcovered, as will appeare by this their vo<g ref="char:EOLhyphen"/>luntarie recantation in honeſt Engliſh, their owne Countrey language.</p>
+            <p>Why how have wee beene couzened, how blinded, how inchan<g ref="char:EOLhyphen"/>ted? when we conſider how unreaſonably our reaſons have miſcarried, we cannot but doubt that ther's more Art then honeſty at <hi>Oxford;</hi> Is this <hi>England?</hi> Is this our own Countrey? Were we bred and borne here? Had our Parents and Kindred of whom wee deſcended, their births and buriall here? and is't poſſible we ſhould forget all this, or remember <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without in<g ref="char:EOLhyphen"/>finite love and affection to this deare mother of us all? But we have been baſely deluded, and have had villanous conceits conjured into us; we have not onely neglected our duties, but contrary to reaſon, and in contempt of all Lawes Divine and humane, we have either in words or actions, or both, ſhew'd our ſelves agents in, or furtherers of the moſt horrid deſigne againſt our own Countrie, that ever the devill put his. Inſtruments upon: from which we have nothing to cleer us, but that that condemnes us, our
+<pb n="3" facs="tcp:155198:2"/>ignorance. But we are now become ſencible of our faults and follies, and willing to confeſſe them with ſhame and ſorrow.</p>
+            <p>When Conſideration our new Pilate had diſcovered the Rocks we were running upon, we preſently alter'd our courſe, and ſteer'd for the Ile of Se<g ref="char:EOLhyphen"/>curitie, for upon notiſe taken of the lading, the fraight was found to be of no leſſe value then the proſperity of three Kingdomes, beſides our own lives, 'twas time to look about us: and now we have ſcap'd the danger, we cannot but thinke it our dueties to expreſſe as well our ſorrow for our er<g ref="char:EOLhyphen"/>rours, as joy for our deliverance, that we may once againe be held wor<g ref="char:EOLhyphen"/>thy the ſociety of Chriſtians.</p>
+            <p>We are not the firſt that have been miſtaken, but we muſt confeſſe inge<g ref="char:EOLhyphen"/>niouſly that we are the firſt that ever were ſo fowlie miſtaken, and led (<hi>by Will with a Wiſpe</hi>) ſo farre out of the way. It had been much for one of us to have plotted the death of his own Father, to have ſet a Town or two on fire, or (by the Popes advice) have indeavoured to poyſon a Prince for being a Proteſtant, the leaſt of theſe had been enough to have brought a black day, and a blacker night upon him, but we have been favour<g ref="char:EOLhyphen"/>ers of a hell-bred conſpiracie, wherein Religion, Lawes, Liberties, Father, Mother, Prince, people and all were to ſuffer, a buſineſſe of ſo ſtrange a nature that no Heathen Chronicle can fit it with a name. Thus had igno<g ref="char:EOLhyphen"/>rance brought us ſo neer the brink of confuſion that providence ſeem'd to have much adoe to recover us. All our crie was wont to be, Shall wee not fight for our King! ſhall wee fight againſt our King? When allas wee knew not what we ſaid; but now our eyes are open we cannot but confeſſe that we have abus'd the King, abus'd the State, and abus'd our ſelves all this while; wee acknowledge that wee have deſeru'd the reproachfull name of Malignants, and may be aſham'd to ſay, Wee have had either eyes or underſtandings, wee have made ſo ill an uſe of them. VVee have cryed up the Papiſts, and cry downe the Proteſtants, we have digni<g ref="char:EOLhyphen"/>fied the Court, and vilified the Parliament, we have exalted the King in his Title, and pulled him down in his power, we have extoll'd the Prerogatiue and ſlighted the lawes; and in all this we have aſſiſted his Majeſtie in a quar<g ref="char:EOLhyphen"/>rell againſt himſelf, been his enemies in taking his part, and in ſtanding for him betraid him. Allas what durſt the Papiſt have undertaken, if we had not countenanc'd 'em, and what could they have effected if we had not aſſiſted them? when the Plot was throughly digeſted, and the intelligence di<g ref="char:EOLhyphen"/>ſpearc'd, that the poiſon newly taken began to worke; when the name Round-head became odious to it's own God-fathers and God-mothers, and when we were made to beleeve that all the beſt people in <hi>England</hi> were
+<pb n="4" facs="tcp:155198:3"/>Annabaptiſts and Browniſts, then the Catholikes began to be couragious and cry <hi>Vive la Roy.</hi> Then they began to fall to worke for themſelves that had ſerv'd out their times with the Devill, and wee forſooth muſt be their journey-men that we might afterward become ſharers in their flame and ru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne: In all their damnable proiects (by our compliance with 'em) their worke has been promoted, and their crime leſſen'd, ſuch has been their ſubtilitie, and our ſimplicitie; ſo that though they are before us in villanie, we are before them in infamie: They have their old and well beloved Rom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Ca<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oick Religion to plead for the, but allas we (many of us) have no Religion at all to excuſe us; indeed wee have ſtood moſt for Po<g ref="char:EOLhyphen"/>pery bec<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e that has ſtood moſt for ignorance, and wee have ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e li<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e doubt of ſalvation, becauſe wee have beene alwayes fur<g ref="char:EOLhyphen"/>niſh'd with a pleaſant conceit, that 'tis an eaſie matter to goe to hea<g ref="char:EOLhyphen"/>ven blinde-fold. Thus wee have indeavour'd to wrong our owne ſoules, inſure the State, and diſhonour his Majeſtie; VVas it like that wee ſhould be friends to the King, when we were enemies to the Kingdome? is't poſſible that men ſhould be ſo blinde, ſo ſtupid, ſo mad as to conceive that the moſt horrid murthers and maſſackers that ever were heard of, could be begun, countenanc'd and continu'd for the honour of his Majeſtie, can wee without ſhame confeſſe that we thought it faire play for the baſeſt Re<g ref="char:EOLhyphen"/>bells i'th world to kill the beſt Subjects by Authoritie (for they have ſo publiſined it, and were never yet repreved for ſaying ſo) who would have thought that the broade Seale had been ſo broad as to reach into <hi>Ireland</hi> for ſuch a purpoſe? But we were ſtill kept to our Byas, by Declarrations and Proclamations <hi>(O remembor bleeding Ireland)</hi> by reading of which our eyes became ſo daz<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d, that 'twas long before wee could diſcerne truth from ſelfhood; And then againe we were intoxicated with whimſies of (this they ſay, and that they ſay,) They ſay the King fights for the Proteſtant Reli<g ref="char:EOLhyphen"/>gion; they ſay he will goe over himſelf, and quell the Rebells in <hi>Ireland:</hi> They ſay he would faine come to <hi>London,</hi> and complie with his Parliament, but his wicked Counſell will not ſuffer him, and a hundred more ſaies, That ſeem'd to be pretty ſtuffe, and to have a good colour, ſo that we were migh<g ref="char:EOLhyphen"/>tily taken with 'em for a long time; but at laſt wee heard of other <hi>Saies,</hi> Northerne Saies, and VVeſterne Saies. They ſaid, The King is comming up with an Armie to <hi>London,</hi> to break up the Parliament: they ſay, Hee was loth to have his good Subjects of <hi>Ireland</hi> any longer proclaim'd Rebells, who have murdered about 200000. Proteſtants. They ſay he hath ſent for them to come over hither to waſh off that blood with as much more here; and many other Saies of the ſame weaving, and the ſame colour, crimſon
+<pb n="5" facs="tcp:155198:3"/>Saies, or ſcarlet Saies, ſtuffs of ſo deep a dye, that 'twill hardly be waſh'd out withall the raine will fall betwixt this and Domes-day. Now theſe Saies we lik'd not ſo well, but as the former had inveagl'd us to be conſtant hun<g ref="char:EOLhyphen"/>ters, ſo theſe ſpoil'd all the ſport, and utterly frighted us out of the Forreſt of fooles. Indeed theſe bloody Saies were the firſt motives that drew us into a conſideration of our fearfull condition, and ſo by degrees to become Reformadoes in Colonell Round-heads Regiment. In which we doubt not but to make it appeare by our valours, that wee are friends to our King in fighting for our Countrie. And our hearty deſires are, and ſhall ever be, that his Maieſtie would ſeriouſly conſider (ſince he will fight) whether it be not better to fight to make his enemies his friends, then his friends his enemies, and to protect and preſerve his people that would preſerve His glory, then to ſet good and bad both together by the eares, till there be none left but a few fatherleſſe children, that when they ſhall come to pray for him, will be put out with the ſad remembrance of their Fathers death.</p>
+            <p>But ſince wee muſt fight, let us (if it be poſſible) mix reaſon with our rage, at leaſt in our controverſie of words, what ever wee doe in our blowes. Is it not madneſſe for a man to ſay, He fights for his King, that fights againſt his Countrie; is not the King a man? and what makes a man a King; if a King cannot be King without a Kingdom, then whether is hee more friend to the King, that fights for the Kingdom that makes him ſo, or he that fights to deſtroy it? Are your eyes open yet? you that ſay ye fight for the King, when ye fight to take away the Inheritance with the Title? But when you have granted this Trueth (which cannot be dem'd, then you fall upon his command, his will and pleaſure, which you call his Prerogative; this muſt be granted him, and ſo if his will and pleaſure be to have his Peo<g ref="char:EOLhyphen"/>ple deſtroy one another, his Prerogative that ſhould preſerve his Power muſt bring it to nothing, and then you have done him good ſervice. Fie, fie, you are blinde ſtill, if Spectacles will not helpe you, the fault's not in your fight; y'are wilfull and obſtinate, you have not diſcretion enough left to in<g ref="char:EOLhyphen"/>form you, that the houſe y'are pulling downe will beat your own braines out. VVe that have been in the fire, are glad we have ſcap'd with ſinging, and if we come there againe, we deſerve to be burn'd; but our reſolutions are now not ſo much to ſhun the flame, as to quench it, not to leave it bur<g ref="char:EOLhyphen"/>ning, but to put it out, he that help's not now, does but hinder, and hee that ſhewes not himſelf a friend, muſt needs be taken for an enemie. VVe are now in a Purgatory from whence we ſhall never be redeem'd with ſleepe and ſilence, (and the onely prevalent Praiers of the Papiſts will hardly be
+<pb n="6" facs="tcp:155198:4"/>purchaſed) wee muſt pray to the King of Kings (for here we are diſpiſed) to ſtand for us, if we humble our ſelves, and pray as we ought, hee'l heare and helpe us, if we can once get into his favour, we ſhall not need to feare the Plotts of the Papiſt, the rage of the Rebell, nor the might of any Mo<g ref="char:EOLhyphen"/>narch: If we will be content to be rul'd by him, ſerve and follow him, hee'l put us into ſuch a poſture, that if the Prince of Darkneſſe ſhall bring up all his reſerve, and joyne 'em with thoſe already in armes in his ſervice, they ſhall never prevaile againſt the Goſpel, and then we ſhall march againſt our enemie with courage, and fight without fear, if we loſe our lives, then wee are ſure to get well by the bargaine; not a man that dies in ſuch a cauſe, in ſuch a quarrell, in ſuch a condition, but gaines a better Kingdome for him<g ref="char:EOLhyphen"/>ſelf, then that he redeems with loſſe of his life for another.</p>
+            <p>Are not theſe good incouragements my maſters? who would not fight for a Kingdome? Come, you that are behinde hand with the Covenant (or have taken it with an ill reſolution) lift up your eyes a little, ſee how glori<g ref="char:EOLhyphen"/>ouſly the heavens look, and conſider their Maker, yee have ſworne many thouſands of Oathes, enough (indeed) to damne you (i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God ſhould be as harſh with you, as you have been with him) ſpare one now for a good pur<g ref="char:EOLhyphen"/>poſe, doe as your betters have done, enter into Covenant with your Maker, and then ioyne with thoſe that had rather looſe their lives, then live to ſee the King loſe his Kingdomes through the malitious practiſes of the Known enemies to God and Religion; this is the only way for ye to ſhew that ye love the King, and to bring you into favour with God, that ſets up, and pulls down at his pleaſure.</p>
+            <p>If you have honours, this is the way to increaſe 'em, if you have eſtates, by this meanes ye may preſerve them, if you have honeſt friends, this is the way to keep 'em; but if ye want all or either of theſe, this is the way to pur<g ref="char:EOLhyphen"/>chaſe 'em: Is't not wonderfull that all men generally ſhould be ſo apt and active with hazard of their lives to purchaſe gold and glory, and that now there ſhould be a generation of men living, that will hardly be intreated with the gaine of both, to procure their owne ſafeties? how many of us have al<g ref="char:EOLhyphen"/>ready paid deerly for our obſtinacy? and hazarded our ſouls by looſing our eſtates, an unparral'd marke of mallice. VVe have given to help on out ruines willingly, and by that meanes, have been forc'd to give againe for our preſervations againſt our wills: wee have parted with a great part of our eſtates, for the hurt of the Kingdom, and a ſmall part given for the preſerva<g ref="char:EOLhyphen"/>tion of it has undone us; O miſerable wretches! we have ſtuddied Ob<g ref="char:EOLhyphen"/>jections againſt the preſent taxes by the Parliament, and defences againſt the former by the King; unlawfull Monopolies, then to pick our purſes for
+<pb n="7" facs="tcp:155198:4"/>ever, and keep us without Parliaments we talke of with content, but legall impoſitions now, to help put an end to our miſeries, and to end with them, we cannot indure. This has been our beſt condition, and (indeed) the con<g ref="char:EOLhyphen"/>dition of the beſt of us; For many of us have run our ſelves by worſe pra<g ref="char:EOLhyphen"/>ctiſes into greater perills, we have had ſtrange hopes to become gainers by changing our conſtant ſecurities for apparent dangers; wee have left our houſes in the City, where we might have liv'd ſafely, and gone to our loving friends at <hi>Oxford,</hi> that we might be undone quickly; we have been alwayes forward to receive the Cavalieres into our habitations, and they have been alwayes as forward to carry away that we had at parting. How many hou<g ref="char:EOLhyphen"/>ſes, how many Townes, how many Cities, hovv many Counties have by our favouring that party, been brought to miſery; looke upon <hi>Yorke</hi> the fountaine of that River of calamity, that keepes ſtill the vvinding current through <hi>Lincolnſhire, Lancaſhire, Cheſhire, Darbiſhire, Staffordſhire, Notting<g ref="char:EOLhyphen"/>hamſhire, Warwickſhire, Leceſter-ſhire, Northamptonſhire, Buckinghamſhire, Barkſhire</hi> and <hi>Oxfordſhire;</hi> (vvhere it hath ſo overflovvn, it has almoſt ſpoil'd the whole Countrey) from whence he runnes on in his Malig<g ref="char:EOLhyphen"/>nant courſe tovvard <hi>Briſtow, Tanton,</hi> and <hi>Exeter,</hi> and by the vvay conſider vvhat a multitude of people in all theſe parts have been guilty of their ovvn undoings, and therefore deſerve no pitty, but hovv many thouſands of In<g ref="char:EOLhyphen"/>nocents (beſides) have they been the deſtruction of, for which they are to anſwer? Allas poor <hi>York,</hi> thou haſt ſuffered wonderfully in thy own perſon, thank thy Malignants; theſe unnaturall warres were firſt bred in thee, and now thou art like to be buried in them. Thou art full of Souldiers within, and begirt with Souldiers without, thou wer't the firſt City that raiſed them, and art like to be the firſt razed by them; how ever thy affrightments are great, and thy inward diſtractions no doubt are worſe then thy outward al<g ref="char:EOLhyphen"/>larmes, who are our friends ſaies one, they that are our enemies ſaies ano<g ref="char:EOLhyphen"/>ther, who fights for us, they that fight againſt us, our enemies are within, and our friends are without, what ſhift ſhall we make to be conquer'd? wee periſh if we proſper; theſe are ſtrange words, and they muſt needs be ſtrange warres, when the City is in more danger by them that defend it, then by thoſe that raiſe Batteries againſt it.</p>
+            <p>When you have ſeen enough herein to make you ſorrowfull, conveigh your thoughts to <hi>Redding,</hi> there you ſhall finde all quiet enough now, (at leaſt in outward appearance) but the poore people have a warre ſtill with<g ref="char:EOLhyphen"/>in them, they grieve at their povertie, yet a number of them have gained by their loſſes, for humilitie's better then riches, there's a great deal leſſe pride
+<pb n="8" facs="tcp:155198:5"/>(now) then there was, and a great deale more repentance, but all the Coun<g ref="char:EOLhyphen"/>trey cries out, we are undone by 't, and <hi>Redding</hi> muſt not onely beare his owne blame and loſſe, but be ſubiect to a perpetuall reproach for undoing his neighbours, this 'tis to be drunke with <hi>Maligo.</hi> Then ſurveigh <hi>Briſtoll,</hi> and conſider their bargaine, they have got the purchaſe they long'd for, and that ſome of their great ones (before) hang'd for, whoſe example could not fright the reſt out of their humours, but made them more eager in perſuit of the gaine and honour they dream's of; O how fearfull they were of being preſerv'd; many that had hardly praid of a moneth before, fell now to their devotions, with ſuch zeale, that God heard their prayers, gran<g ref="char:EOLhyphen"/>ted their requeſts, and made 'em ſlaves and beggars: and now they have nothing to ſay, but that they are miſerable, and have deſerved it: But that that heightens their callamitie, is the proſperous condition of glorious <hi>Gloceſter,</hi> in whoſe ſtory they read ſuch fidelity, and valour, ſo much honeſtie and honour, that they are aſham'd to looke upon their owne.</p>
+            <p>But to make an end with Thee <hi>Worceſter,</hi> (that haſt taken a courſe to make an end of thy ſelfe) in former ages, a Citie, now (to thy owne peo<g ref="char:EOLhyphen"/>ple) a priſon; thou wer't wont to looke beautifully, be clad richly, fear daintily, and trade freely, now thou look'ſt ugly, goeſt beggerly, feareſt hardly, and liveſt ſlaviſhly; it ſeemes Obſtmacie hath ſo bewitch'd thee, that miſery and infamy are thy choice familiars; But 'tis pittie thou ſhouldeſt be ſuffered to periſh, though thou deſireſt it: no doubt the Par<g ref="char:EOLhyphen"/>liament will conſider what thou haſt been, and be a meanes ſhortly to re<g ref="char:EOLhyphen"/>cover thee thy auncient Immunities, and make thee a Citie againe, whe<g ref="char:EOLhyphen"/>ther thou wilt or no.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
